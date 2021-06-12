@@ -14,7 +14,7 @@ float temp = 0.0;
 float humidity = 0.0;
 unsigned long period = 60000;
 unsigned long time_now = 0;
-String phoneNumber = "+639564114308";
+String phoneNumber = "+639467254060";
 
 
 void setup() {
